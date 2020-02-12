@@ -1,0 +1,26 @@
+body{
+    background-color: steelblue;
+}
+
+#divtulostus{
+    background-color: silver;
+}
+
+#divkuvanpiilotus{
+    background-color: wheat;
+}
+
+#divotsikonvaihto{
+    background-color: teal;
+}
+.page{
+    display: none;
+}
+
+.active{
+    display: block;
+}
+
+#keskitys{
+    text-align: center;
+}
